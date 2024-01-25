@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "DBFToSQL2022", "DBFToSQL2022\DBFToSQL2022.dtproj", "{1C69D5B3-8456-4442-A261-83F1CB0E5F72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C69D5B3-8456-4442-A261-83F1CB0E5F72}.Development|Default.ActiveCfg = Development
+		{1C69D5B3-8456-4442-A261-83F1CB0E5F72}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E139A0D-11AD-4A1C-A3E6-E6F4DF4451A5}
+	EndGlobalSection
+EndGlobal
